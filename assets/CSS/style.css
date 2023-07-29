@@ -1,0 +1,23 @@
+
+
+#myheading{
+    color: green;
+}
+
+p{
+    /* line-height: 50px; */
+    /* letter-spacing: 10px; */
+    text-align: justify;
+    /* text-decoration: line; */
+    text-indent: 70px;
+    /* text-transform: capitalize; */
+    /* font-family: 'Lugrasimo', cursive; */
+    /* font-size: 30px; */
+    /* font-style: italic; */
+    /* font-variant: small-caps; */
+    font-weight: 100;
+}
+
+a{
+    text-decoration: none;
+}
